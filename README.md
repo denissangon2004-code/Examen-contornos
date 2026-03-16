@@ -2,4 +2,6 @@
 
 ![Fallou a imaxe](logo.png)
 
-![Fallou a imaxe](Gatito.png)
+![Fallou a imaxe](logo.png)
+
+# Mi nombre es Denis
