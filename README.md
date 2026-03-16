@@ -1,3 +1,3 @@
 # Examen-contornos
 
-![Fallou a imaxe](Logo.png)
+![Fallou a imaxe](logo.png)
